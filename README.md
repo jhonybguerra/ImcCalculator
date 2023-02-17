@@ -25,7 +25,7 @@
 </p>
 
 ## Download
-BADGE DA PLAYSTORE https://play.google.com/intl/en_us/badges/
+<a href='https://play.google.com/store/apps/details?id=com.jbgcomposer.imccalculator&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img width="20%" alt='Disponível no Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/pt-br_badge_web_generic.png'/></a>
 
 Ou faça o download da <a href="apk/app-debug.apk?raw=true">APK diretamente</a>. Você pode ver <a href="https://www.google.com/search?q=como+instalar+um+apk+no+android">aqui</a> como instalar uma APK no seu aparelho android.
 
