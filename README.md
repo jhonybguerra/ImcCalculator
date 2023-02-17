@@ -33,11 +33,11 @@ Ou faça o download da <a href="apk/app-debug.apk?raw=true">APK diretamente</a>.
 
 - Minimum SDK level: 21
 - [Linguagem Kotlin](https://kotlinlang.org/)
+- Custom Views: View customizadas usando XML.
 
 - Jetpack
-  - Lifecycle: Observe os ciclos de vida do Android e manipule os estados da interface do usuário após as alterações do ciclo de vida.
+  - Lifecycle: Observa os ciclos de vida do Android e manipula os estados da interface do usuário após as alterações do ciclo de vida.
   - ViewBinding: Liga os componentes do XML no Kotlin através de uma classe que garante segurança de tipo e outras vantagens.
-  - Custom Views: View customizadas feitas do zero usando XML.
 
 - Arquitetura
   - Single Activity
